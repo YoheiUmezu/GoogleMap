@@ -1,0 +1,15 @@
+src/assets
+src/components
+src/plugins
+src/router
+src/store
+src/views
+src/main.js
+src/config
+src/views/admin
+src/sections
+src/sectionsAdmin
+src/mixins
+src/pages
+src
+
